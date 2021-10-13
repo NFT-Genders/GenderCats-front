@@ -92,4 +92,10 @@ Made with :heart: by <a href="https://github.com/NFT-Genders/" target="_blank">N
 
 &#xa0;
 
+## :camera: Video Demonstration ##
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=O85azAqSeHA
+" target="_blank"><img src="preview.png" 
+alt="Video Demonstration of project" width="480" height="270"/></a>
+
 <a href="#top">Back to top</a>
